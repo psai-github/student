@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-permalink: magnitudo.site
+permalink: /about
 comments: true
 ---
 
