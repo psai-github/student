@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about
+title: Contact
+permalink: https://magnitudo.site
 comments: true
 ---
 
