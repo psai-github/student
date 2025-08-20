@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Contact
-permalink: https://magnitudo.site
+title: About
+permalink: /about/
+redirect_to: https://magnitudo.site
 comments: true
+
 ---
 
 ## As a conversation Starter
