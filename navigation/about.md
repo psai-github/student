@@ -114,7 +114,7 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
   <img src="https://media.licdn.com/dms/image/v2/D5603AQFlz_xYsyBr8Q/profile-displayphoto-scale_200_200/B56Zg18dwzHcAY-/0/1753251700453?e=2147483647&v=beta&t=0VKgcDAB4cKI170yUgcBqUh3sRPvUQThgtMGvnw3AyQ" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+<!--   <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3"> -->
 
 </div>
