@@ -103,7 +103,7 @@ Here are some places I have lived.
   
 ### Culture, Family, and Fun
 
-I live with my mom, dad and twin brother. I play basketball and I used to swim. In my free time I program and play basketball. 
+I live with my mom, dad and twin brother. I play basketball and I used to swim. In my free time I program and play basketball. I also have a company called Magnitudo.
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
