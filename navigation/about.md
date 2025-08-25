@@ -9,7 +9,6 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
 
 
 <style>
