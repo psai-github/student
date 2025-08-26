@@ -102,10 +102,7 @@ comments: true
   
 ### Culture, Family, and Fun
 
-I live with my mom, dad and twin brother. I play basketball and I used to swim. In my free time I program and play basketball. I also have a company called Magnitudo.
-<comment>
-Gallery of Pics, scroll to the right for more ...
-</comment>
+I live with my mom, dad and twin brother. I play basketball and I used to swim. In my free time I program and play basketball. I also have a company called <a href="https://magnitudo.site">Magnitudo</a>
 <div class="image-gallery">
   <img src="https://media.licdn.com/dms/image/v2/D5603AQFlz_xYsyBr8Q/profile-displayphoto-scale_200_200/B56Zg18dwzHcAY-/0/1753251700453?e=2147483647&v=beta&t=0VKgcDAB4cKI170yUgcBqUh3sRPvUQThgtMGvnw3AyQ" alt="Image 1">
 <!--   <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
