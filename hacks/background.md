@@ -6,7 +6,7 @@ sprite: images/platformer/sprites/flying-ufo.png
 background: images/platformer/backgrounds/alien_planet1.jpg
 permalink: /background
 ---
-
+//Create the world canvas
 <canvas id="world"></canvas>
 
 <script>
@@ -41,11 +41,12 @@ permalink: /background
         this.speed = GameWorld.gameSpeed * this.speedRatio;
       }
       update() {}
+      //Draw spaceship
       draw(ctx) {
         ctx.drawImage(this.image, this.x, this.y, this.width, this.height);
       }
     }
-
+//Create background object
     class Background extends GameObject {
       constructor(image, gameWorld) {
         // Fill entire canvas
@@ -75,7 +76,7 @@ permalink: /background
         this.frame++;
       }
     }
-
+  // Create GameWorld class
     class GameWorld {
       static gameSpeed = 5;
       constructor(backgroundImg, spriteImg) {
