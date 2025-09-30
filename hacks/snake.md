@@ -68,7 +68,7 @@ permalink: /snake/
     }
 </style>
 
-<h2>Snake</h2>
+<h2>Inventors Snake Game</h2>
 <div class="container">
     <p class="fs-4">Score: <span id="score_value">0</span></p>
 
@@ -267,7 +267,7 @@ permalink: /snake/
             }
             // Repaint canvas
             ctx.beginPath();
-            ctx.fillStyle = "royalblue";
+            ctx.fillStyle = "pink";
             ctx.fillRect(0, 0, canvas.width, canvas.height);
             // Paint snake
             for(let i = 0; i < snake.length; i++){
